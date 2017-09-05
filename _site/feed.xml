@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Max Equation</title>
+    <description>The life and work of Max Equation.</description>
+    <link>http://fedmysoul.github.io//</link>
+    <atom:link href="http://fedmysoul.github.io//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 01 Jun 2015 02:32:08 +0100</pubDate>
+    <lastBuildDate>Mon, 01 Jun 2015 02:32:08 +0100</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Yes</title>
+        <description>&lt;p&gt;Hello World!
+&lt;!-- To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+ --&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 24 May 2015 04:53:00 +0100</pubDate>
+        <link>http://fedmysoul.github.io//jekyll/update/2015/05/24/future-posts2.html</link>
+        <guid isPermaLink="true">http://fedmysoul.github.io//jekyll/update/2015/05/24/future-posts2.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+  </channel>
+</rss>
